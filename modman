@@ -1,0 +1,5 @@
+src/app/code/local/Loewenstark/ContactForm                                      app/code/local/Loewenstark/ContactForm
+src/app/design/frontend/base/default/layout/ls_contactform.xml                  app/design/frontend/base/default/layout/ls_contactform.xml
+src/app/design/frontend/base/default/template/contacts/form_extended.phtml      app/design/frontend/base/default/template/contacts/form_extended.phtml
+src/app/etc/modules/Loewenstark_ContactForm.xml                                 app/etc/modules/Loewenstark_ContactForm.xml
+src/app/locale/de_DE/Loewenstark_ContactForm.csv                                app/locale/de_DE/Loewenstark_ContactForm.csv

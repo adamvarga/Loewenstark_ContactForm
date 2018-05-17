@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout>
+    <contacts_index_index translate="label">
+        <reference name="contactForm">
+            <action method="setTemplate">
+                <template>contacts/form_extended.phtml</template>
+            </action>    
+        </reference>
+    </contacts_index_index>
+</layout>

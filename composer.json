@@ -1,0 +1,10 @@
+{
+    "name":"ls/contactform",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/adamvarga/Loewenstark_ContactForm",
+    "description":"Contact form extension with extra fields (agreement, subject)",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
